@@ -184,15 +184,6 @@ python test_custom_tools.py
 - **Connection Issues**: Check internet connectivity and API service status
 - **MCP Server Not Found**: Verify the server configuration in Cursor/Claude Desktop settings
 
-**Useful Links:**
-- [MCP Protocol Documentation](https://modelcontextprotocol.io/)
-- [Cursor MCP Extension](https://marketplace.visualstudio.com/items?itemName=modelcontextprotocol.mcp)
-- [Claude Desktop Documentation](https://docs.anthropic.com/claude/docs/claude-desktop)
-- [Replicate API Documentation](https://replicate.com/docs)
-- [ElevenLabs API Documentation](https://elevenlabs.io/docs)
-- [SerpAPI Documentation](https://serpapi.com/docs)
-- [Tavily API Documentation](https://tavily.com/docs)
-
 ---
 
 ## 📂 Project Structure
