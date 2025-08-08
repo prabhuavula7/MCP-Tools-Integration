@@ -23,7 +23,6 @@ This MCP server provides access to **40 total tools**:
 
 > **Note:** The code files contain many more tools, but due to Cursor's limit of 40 tools, only 5 custom tools could be implemented. The remaining tools are available in the codebase but not currently active in this deployment.
 
-📄 **Project Documentation:** For detailed implementation report, output screenshots, and access to the official shared Google Drive folder with output files, see the [MCP Implementation Doc PDF](./MCP_Implementation_Doc.pdf).
 
 ---
 
@@ -210,7 +209,7 @@ python test_custom_tools.py
 ├── requirements.txt         # Python dependencies
 ├── env_template.txt         # API key template
 ├── LICENSE.txt              # License (MIT)
-├── MCP_Implementation_Doc.pdf # Project documentation with screenshots and output files
+
 ```
 
 ---
@@ -233,7 +232,6 @@ This project is licensed under the MIT License - see the [LICENSE.txt](./LICENSE
 
 ## 📄 Acknowledgments
 
-- [Klavis AI](https://github.com/Klavis-AI/klavis) - Open source MCP integration platform
 - [MCP Protocol](https://modelcontextprotocol.io/)
 - [Cursor](https://cursor.sh/)
 - [Claude Desktop](https://claude.ai/download)
